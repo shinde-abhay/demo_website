@@ -1,0 +1,32 @@
+{
+  "name": "asvana-studio-website",
+  "version": "1.0.0",
+  "description": "ASVANA STUDIO - Where Family and Nature Shape Design",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000 -c-1",
+    "dev": "live-server",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "architecture",
+    "landscape-design",
+    "vastu-consultation",
+    "design-studio",
+    "portfolio"
+  ],
+  "author": "ASVANA STUDIO",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/asvana-studio-website"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/asvana-studio-website/issues"
+  },
+  "homepage": "https://github.com/yourusername/asvana-studio-website#readme"
+}
